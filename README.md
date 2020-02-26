@@ -6,7 +6,7 @@ We use the BS4 and [Python](https://www.python.org/), download this for use this
 
 ### How to use
 1) install github
-2) Go to the console and write this ``` git clone https://github.com/hoopengo/mp3-Parser-Donation-Alerts/ ```
+2) Go to the console and write this ```markdown git clone https://github.com/hoopengo/mp3-Parser-Donation-Alerts/ ```
 
 ```markdown
 Syntax highlighted code block
