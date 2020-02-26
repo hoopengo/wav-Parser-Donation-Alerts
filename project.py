@@ -2,8 +2,6 @@ import random
 import requests
 import os
 
-i = 0
-
 def parse():
 	while True:
 		url = "http://static.donationalerts.ru/audiodonations/"
