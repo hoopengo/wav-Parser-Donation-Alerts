@@ -19,7 +19,4 @@ We use the [BS4](https://pypi.org/project/bs4/) and [Python](https://www.python.
 ### Как им пользоваться
 1) скачайте github,python 3.7,bs4
 2) Зайдие в консоль и введите эти команды ``` git clone https://github.com/hoopengo/mp3-Parser-Donation-Alerts/ ```,
-  ```py Project.py ```,
-3)Выберите Папку : C:/Folder
-4)Перейдите в папку
-5)Наслаждайтесь угаром
+  ```py Project.py ```, 3)Выберите Папку : C:/Folder , 4)Перейдите в папку , 5)Наслаждайтесь угаром
