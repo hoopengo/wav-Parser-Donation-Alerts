@@ -4,7 +4,7 @@ import os
 
 i = 0
 
-def parse(i):
+def parse():
 	while True:
 		url = "http://static.donationalerts.ru/audiodonations/"
 		a = random.randint(11111, 99999)
@@ -15,4 +15,4 @@ def parse(i):
 		request = session.get(url)
 		if request.status_code != 404:
 			print(url)
-parse(i)
+parse()
