@@ -16,7 +16,7 @@ def parse():
 		url = url + str(a) + str(b) + ".wav"
 		r = requests.get(url, stream=True)
 		if r.status_code == 200:
-			with open(str(path + '/' + random.randint(1,1000000)) + '.wav', 'wb') as f:
+			with open(path + '/' + str(random.randint(1,1000000)) + '.wav', 'wb') as f:
 				f.write(r.content)
 			print(url)
 print('Подождите... Это займёт около минуты!')
