@@ -1,7 +1,5 @@
 import random
 import requests
-import os
-
 def parse():
 	while True:
 		url = "http://static.donationalerts.ru/audiodonations/"
@@ -18,5 +16,4 @@ def parse():
 					with open(str(random.randint(1,1000000)) + '.wav', 'wb') as f:
 						f.write(req.content)
 			print(url)
-
 parse()
