@@ -22,6 +22,6 @@ We use [Python](https://www.python.org/) with [requests](https://pypi.org/projec
 2) Нажмите на кнопку 'clone or download' и скачайте репозиторий
 3) Пропишите в консоль ```cd Folder``` folder - это там где лежит файл с project.py
 4) И это тоже ```python project.py```
-5)Зайдите в эту папку > 6)Приятного аппетита ;)
 
+5)Зайдите в эту папку > 6)Приятного аппетита ;)
 Теперь в Этой папке будут сохраняться [.wav](https://ru.wikipedia.org/wiki/WAV) файлы. После их можно конвентировать в mp3 и т.д
