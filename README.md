@@ -7,7 +7,7 @@ We use [Python](https://www.python.org/) with [requests](https://pypi.org/projec
 
 ### How it use
 1) install python 3.8,requests
-2) Click 'clone or download' and download this repository
+2) Go to Releases and download latest version
 3) Save project.py to any Folder ('the-Folder')
 4) console => ```cd 'the-Folder'```
 5) console => ```python project.py```
@@ -21,7 +21,8 @@ We use [Python](https://www.python.org/) with [requests](https://pypi.org/projec
 
 ### Как им пользоваться
 1) скачайте python 3.7,requests
-2) Нажмите на кнопку 'clone or download' и скачайте репозиторий
+2) Перейдите в Releases и скачайте последний релиз
+3) Переместите project.py в любую папку
 3) Пропишите в консоль ```cd Folder``` folder - это там где лежит файл с project.py
 4) И это тоже ```python project.py```
 
