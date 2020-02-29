@@ -20,5 +20,5 @@ def parse():
 			with open(str(path + '/' + random.randint(1,1000000)) + '.wav', 'wb') as f:
 				f.write(r.content)
 			print(url)
-parse()
 print('Подождите... Это займёт около минуты!')
+parse()
