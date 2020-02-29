@@ -1,7 +1,7 @@
 # English
 ## Welcome to our Parser
 
-We use the [Python](https://www.python.org/) with [requests](https://pypi.org/project/requests/), download this for use Parser.
+We use [Python](https://www.python.org/) with [requests](https://pypi.org/project/requests/), download this for use Parser.
 
 ### How it use
 1) install python 3.8,requests
