@@ -18,7 +18,7 @@ We use the [Python](https://www.python.org/) with [requests](https://pypi.org/pr
 
 ### Как им пользоваться
 1) скачайте python 3.7,requests
-2) Нажмите на кнопку 'clone or download' и скачайте
+2) Нажмите на кнопку 'clone or download' и скачайте репозиторий
 3) Пропишите в консоль ```cd Folder ``` folder - это там где лежит файл с project.py
 4) И это тоже ```python project.py```
 5)Зайдите в эту папку > 6)Приятного аппетита ;)
