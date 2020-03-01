@@ -1,7 +1,7 @@
 import random
 import requests
 import os
-print('Введите название папки со сливами:')
+print('Выберите в какую папку будут сохранятся .wav фалы (Авто-Создание):')
 path = input()
 try:
 	os.mkdir(path)
