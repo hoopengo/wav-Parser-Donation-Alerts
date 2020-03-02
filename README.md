@@ -32,4 +32,4 @@ We use [Python](https://www.python.org/) with [requests](https://pypi.org/projec
 
 Теперь в Этой папке будут сохраняться [.wav](https://ru.wikipedia.org/wiki/WAV) файлы. После их можно конвентировать в mp3 и т.д
 # Support
-hoopengo@yandex.ru vk: | vk.com/id355662975 twitter: | https://twitter.com/6K7IA3j5vvkEzLe
+hoopengo@yandex.ru | vk.com/id355662975 | https://twitter.com/6K7IA3j5vvkEzLe
