@@ -1,4 +1,4 @@
-<img src="logo.png" />
+<img src="/assets/logo.png" />
 
 ### Release 0.3.2
 ## ...
