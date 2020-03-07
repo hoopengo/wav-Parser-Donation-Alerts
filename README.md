@@ -12,6 +12,8 @@ install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/proj
 Installing Python:
 1. Go to https://www.python.org/downloads and click download latest version
 <img src="/assets/Download.png" />
+2. When app has been installed open console and write ```pip install requests```
+
 
 
 
