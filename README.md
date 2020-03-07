@@ -8,7 +8,7 @@
 ### How it use
 install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/project/requests/)
 # Installing and Working:
-1) Go to https://www.python.org/downloads and click download latest version
+1) Go to https://www.python.org/downloads and click download latest version (3.8.2)
 <img src="/assets/Download.png"/>
 
 2) When app has been installed, open console and write ```pip install requests```
