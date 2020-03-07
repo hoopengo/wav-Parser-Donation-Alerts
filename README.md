@@ -13,6 +13,7 @@ Installing Python:
 1. Go to https://www.python.org/downloads and click download latest version
 <img src="/assets/Download.png" />
 2. When app has been installed open console and write ```pip install requests```
+<img src="/assets/2020-03-07_19-53-07.png" />
 
 
 
