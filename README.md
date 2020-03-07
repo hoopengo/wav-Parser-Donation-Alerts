@@ -1,8 +1,6 @@
 <img src="/assets/logo.png" />
 
 ### Release 0.3.2
-## ...
-### Latest_Release 0.3.1
 
 # English
 ## Welcome to our Parser
@@ -18,6 +16,16 @@ Installing Python:
 
 3) Go to [Releases](https://github.com/hoopengo/wav-Parser-Donation-Alerts/releases) and download WPDA_0.3.1.zip
 <img src="/assets/2020-03-07_20-18-13.png" />
+
+4) Throught project.py to any Folder
+<img src="/assets/2020-03-07_20-23-54.png" />
+
+5) Open console and write this ```cd Folder (Wheres project.py)``` and this ```python project.py ```
+<img src="/assets/Trello-6.gif" /> 
+
+### Latest_Release 0.3.1
+
+#### RELEASE DON'T WORKING!!!
 
 # Русский
 ## Приветствую в нашем репозитории
