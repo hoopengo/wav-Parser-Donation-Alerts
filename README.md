@@ -10,7 +10,8 @@
 ### How it use
 install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/project/requests/)
 Installing Python:
-1.Go to https://www.python.org/downloads
+1.Go to https://www.python.org/downloads and click download latest version
+<img src="/assets/изображение/png" />
 
 
 
