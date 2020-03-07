@@ -14,8 +14,8 @@ install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/proj
 2) When app has been installed, open console and write ```pip install requests```
 <img src="/assets/2020-03-07_19-53-07.png" />
 
-3) Go to [Releases](https://github.com/hoopengo/wav-Parser-Donation-Alerts/releases) and download WPDA_0.3.1.zip
-<img src="/assets/2020-03-07_20-18-13.png" />
+3) Go to [Releases](https://github.com/hoopengo/wav-Parser-Donation-Alerts/releases) and download WPDA_0.3.2.zip
+<img src="/assets/2020-03-07_21-31-36.png" />
 
 4) Throught project.py to any Folder
 <img src="/assets/2020-03-07_20-23-54.png" />
