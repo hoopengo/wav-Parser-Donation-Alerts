@@ -17,10 +17,10 @@ install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/proj
 3) Go to [Releases](https://github.com/hoopengo/wav-Parser-Donation-Alerts/releases) and download WPDA_0.3.2.zip
 <img src="/assets/2020-03-07_21-31-36.png" />
 
-4) Throught project.py to any Folder
+4) Throught project.py to any Folder (or you can throught wav-Parser-Donation-Alerts)
 <img src="/assets/2020-03-07_20-23-54.png" />
 
-5) Open console and write this ```cd Folder (Wheres project.py)``` and this ```python project.py ```
+5) Open console and write this ```cd Folder (Wheres project.py)``` (or ```cd Folder/wav-Parser-Donation-Alerts```) and this ```python project.py ``` (for all)
 <img src="/assets/Trello-6.gif" /> 
 
 6) The 'Folder' are creating and in the folder will be creating a [.wav](https://ru.wikipedia.org/wiki/WAV) files
