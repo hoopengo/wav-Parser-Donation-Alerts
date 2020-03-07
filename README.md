@@ -23,6 +23,10 @@ Installing Python:
 5) Open console and write this ```cd Folder (Wheres project.py)``` and this ```python project.py ```
 <img src="/assets/Trello-6.gif" /> 
 
+6) The 'Folder' are creating and in the folder will be creating a [.wav](https://ru.wikipedia.org/wiki/WAV) files
+<img src="/assets/2020-03-07_21-02-44.png"/>
+<img src="/assets/2020-03-07_21-03-41.png"/>
+
 ### Latest_Release 0.3.1
 
 #### RELEASE DON'T WORKING!!!
