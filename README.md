@@ -16,6 +16,9 @@ Installing Python:
 2) When app has been installed, open console and write ```pip install requests```
 <img src="/assets/2020-03-07_19-53-07.png" />
 
+3) Go to [Releases](https://github.com/hoopengo/wav-Parser-Donation-Alerts/releases) and download WPDA_0.3.1.zip
+<img src="/assets/2020-03-07_20-18-13.png" />
+
 # Русский
 ## Приветствую в нашем репозитории
 Мы используем [Python](https://www.python.org/) c [requests](https://pypi.org/project/requests/), скачайте это, перейдя по ссылкам и используйте его.
