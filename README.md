@@ -7,16 +7,11 @@
 # English
 ## Welcome to our Parser
 
-We use [Python](https://www.python.org/) with [requests](https://pypi.org/project/requests/), download this for use Parser.
-
 ### How it use
-1) install python 3.8,requests
-2) Go to Releases and download latest version
-3) Save project.py to any Folder ('the-Folder')
-4) console => ```cd 'the-Folder'```
-5) console => ```python project.py```
+install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/project/requests/)
+Installing Python:
+1.Go to https://www.python.org/downloads
 
-6)Go to 'the-Folder' > 7)use our Parser ;)
 
 
 # Русский
