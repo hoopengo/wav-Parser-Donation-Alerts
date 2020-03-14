@@ -1,6 +1,6 @@
 <img src="/assets/logo.png" />
 ### Release 0.3.33
-**soon...
+*soon...
 !*some saguar
 ### Release 0.3.2
 
