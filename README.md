@@ -1,11 +1,6 @@
 <img src="/assets/logo.png" />
 
-### Release 0.3.31
-
-1. soon...
-2. !some saguar
-
-### Release 0.3.2
+### Release 0.3.3
 
 # English
 ## Welcome to our Parser
