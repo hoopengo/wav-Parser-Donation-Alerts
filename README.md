@@ -45,4 +45,4 @@ install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/proj
 #### RELEASE DON'T WORKING!!!
 # Support
 hoopengo@yandex.ru | vk.com/id355662975 | https://twitter.com/6K7IA3j5vvkEzLe
-Контрибутор - https://github.com/lytk4dev
+## Контрибутор - https://github.com/lytk4dev
