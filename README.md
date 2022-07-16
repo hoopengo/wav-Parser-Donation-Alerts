@@ -45,12 +45,9 @@ install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/proj
 4) Пропишите в консоль ```cd Folder``` folder - это там где лежит файл с project.py
 5) И это тоже ```python project.py```
 
-5)Зайдите в эту папку > 6)Приятного аппетита ;)
+1) Зайдите в эту папку
+2) Приятного аппетита ;)
 
 Теперь в Указаной папке будут сохраняться [.wav](https://ru.wikipedia.org/wiki/WAV) файлы. После с ними можно проводить операции
-
-# Support
-
-hoopengo@yandex.ru | vk.com/id355662975 | <https://twitter.com/6K7IA3j5vvkEzLe>
 
 ## Контрибутор - <https://github.com/lytk4dev>
