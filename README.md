@@ -46,7 +46,7 @@ install [Python 3.8](https://www.python.org/) + [requests](https://pypi.org/proj
 5) И это тоже ```python project.py```
 
 1) Зайдите в эту папку
-2)Приятного аппетита ;)
+2) Приятного аппетита ;)
 
 Теперь в Указаной папке будут сохраняться [.wav](https://ru.wikipedia.org/wiki/WAV) файлы. После с ними можно проводить операции
 
